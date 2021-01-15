@@ -8,14 +8,18 @@ Use the command below for start the application
 mvn spring-boot:run
 ```
 
-# API endpoints
+# API 
 
 To access the site just enter the url [localhost](http://localhost:8080/) and enter your username
 
 ![img-1](tela-inicial.png)
 
 Type on message in chat public
+
 ![img-1](tela-chat.png)
+
+# Heroku
+ ## To access the application on [Heroku](https://herokuapp.com/) access this [LINK](https://chat-anonimato.herokuapp.com/)
 
 # Built With
 
