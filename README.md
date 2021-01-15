@@ -12,7 +12,8 @@ mvn spring-boot:run
 
 To access the site just enter the url [localhost](http://localhost:8080/) and enter your username
 
-![Design preview for the Intro component with sign up form coding challenge](tela-inicial.png)
+![img-1](tela-inicial.png)
+![img-1](tela-chat.png)
 
 # Built With
 
